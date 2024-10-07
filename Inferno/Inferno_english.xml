@@ -456,7 +456,7 @@
 	"id": "https://raw.githubusercontent.com/giannetti/LWC_TEI2024/main/Inferno/Inferno_english.xml?place_annotation_20241007151402933",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-07T18:14:02.933Z",
-	"dcterms:modified": "2024-10-07T18:14:02.933Z",
+	"dcterms:modified": "2024-10-07T18:26:43.822Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/giannetti",
 		"@type": [
@@ -537,7 +537,7 @@
 	"id": "https://raw.githubusercontent.com/giannetti/LWC_TEI2024/main/Inferno/Inferno_english.xml?place_annotation_20241007151557841",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-07T18:15:57.841Z",
-	"dcterms:modified": "2024-10-07T18:15:57.841Z",
+	"dcterms:modified": "2024-10-07T18:26:19.732Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/giannetti",
 		"@type": [
@@ -578,7 +578,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasPrecision": "cwrc:UnknownCertainty"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -753,7 +754,7 @@
             <lg n="26">
                <l n="76">And he to me: “The honourable name,</l>
                <l n="77">That sounds of them above there in thy life,</l>
-               <l n="78">Wins grace in <placeName key="Heaven in Christianity" ref="http://www.wikidata.org/entity/Q5694585">Heaven</placeName>, that so advances them.”</l>
+               <l n="78">Wins grace in <placeName key="Heaven in Christianity" ref="http://www.wikidata.org/entity/Q5694585">Heaven<precision match="@ref" precision="Unknown"/></placeName>, that so advances them.”</l>
             </lg>
 
             <lg n="27">
